@@ -1,0 +1,27 @@
+# UNIFY Vendor Portal ownership
+#
+# Kumbirai is not listed here yet because their GitHub account is not currently
+# a member of the AdvanceUCT organization. Add them once they have joined.
+
+# Default owner for vendor portal changes.
+* @Lusa458
+
+# Repository governance and delivery setup.
+/.github/ @CalebVoskuil @Lusa458
+/CONTRIBUTING.md @CalebVoskuil @Lusa458
+/SECURITY.md @CalebVoskuil @Lusa458
+
+# Vendor and service provider portal.
+/src/vendor/ @Lusa458
+/src/service-point/ @Lusa458
+/app/vendor/ @Lusa458
+/apps/vendor/ @Lusa458
+
+# Verifier flows.
+/src/verifier/ @Lusa458 @CalebVoskuil
+/src/qr/ @Lusa458 @CalebVoskuil
+/src/credentials/ @Lusa458 @JoshuaWood13
+
+# Shared code needs a second pair of eyes.
+/src/shared/ @CalebVoskuil @JoshuaWood13 @Lusa458
+/packages/ @CalebVoskuil @JoshuaWood13 @Lusa458
